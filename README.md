@@ -25,7 +25,7 @@ It demonstrates the use of **Object-Oriented Programming (OOP)** concepts such a
 
 ## Tech Stack
 - **Language:** Java  
-- **IDE:** IntelliJ IDEA / Eclipse / VS Code  
+- **IDE:** IntelliJ IDEA  
 
 ---
 
